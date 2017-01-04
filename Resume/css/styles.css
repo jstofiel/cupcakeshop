@@ -1,0 +1,11 @@
+.center {
+  text-align: center;
+}
+
+ul li {
+  list-style-position: inside;
+}
+
+ol li {
+  list-style-position: inside;
+}
