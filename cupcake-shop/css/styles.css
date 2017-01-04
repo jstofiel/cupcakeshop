@@ -1,0 +1,15 @@
+ul.flashy {
+  font-style: italic;
+  color: red;
+}
+p.flashy {
+  font-style: italic;
+  color: red;
+}
+p.center {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+body.center {
+  text-align: center;
